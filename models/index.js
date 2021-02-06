@@ -1,5 +1,7 @@
+//Apply strict mode for javascript
 'use strict';
 
+//Import requirements
 var fs        = require('fs');
 var path      = require('path');
 var Sequelize = require('sequelize');

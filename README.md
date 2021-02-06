@@ -1,10 +1,5 @@
 # Reverse Engineering
 
-Project overview here...
-
-
-![Walkthrough](./assets/walkthrough.gif)
-
 ## Table of Contents
 
 | |||
@@ -15,8 +10,6 @@ Project overview here...
 ---
 
 ## Goals and Methods
-
-Project goals and methods...
 
 ## Deployed Link
 
